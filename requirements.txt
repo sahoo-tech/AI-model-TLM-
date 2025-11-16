@@ -1,0 +1,16 @@
+# Core dependencies for Tiny RAG-LLM
+torch>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# Web scraping and search
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+duckduckgo-search>=3.9.0
+
+# Embeddings and vector storage
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+
+# Optional but recommended
+lxml>=4.9.0  # Better HTML parsing
